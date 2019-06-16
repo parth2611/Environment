@@ -1,0 +1,18 @@
+Admin add
+
+(File Uploader dependency)
+
+Activity - Activity Type
+Event
+E-Timeline
+
+Admin View
+
+User list Done
+Added Activity List
+Added Event List
+Added Etimeline List
+
+admin - app connectivity
+
+
